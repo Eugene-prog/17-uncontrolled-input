@@ -3,8 +3,9 @@
 }
 
 h1 {
-  font-size: 90px;
+  font-size: 50px;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 button {
@@ -14,4 +15,22 @@ button {
   margin: 20px;
   border: 0px;
   cursor: pointer;
+}
+
+form {
+  margin: 0 auto;
+  font-size: 30px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  width: 50%;
+}
+
+input {
+  margin: 15px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
 }
