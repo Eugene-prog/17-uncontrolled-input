@@ -26,6 +26,7 @@ form {
 }
 
 input {
+  font-size: 30px;
   margin: 15px;
   padding: 10px;
   border-radius: 5px;
